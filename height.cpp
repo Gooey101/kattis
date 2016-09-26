@@ -1,4 +1,5 @@
 /*
+https://open.kattis.com/problems/height
 Algorithm:
 1. number is inputted into a specific array number, etc. a[14]
 2. number and array position go to the sort function
