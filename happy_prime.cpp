@@ -1,3 +1,5 @@
+/*https://open.kattis.com/problems/happyprime*/
+
 #include <iostream>
 #include <set>
 using namespace std;
