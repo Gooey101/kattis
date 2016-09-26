@@ -1,3 +1,5 @@
+/*https://open.kattis.com/problems/safepassage*/
+
 #include <iostream>
 #include <algorithm> //used for sort & min functions
 using namespace std;
