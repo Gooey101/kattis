@@ -1,3 +1,5 @@
+/*https://open.kattis.com/problems/rationalsequence*/
+
 #include <iostream>
 using namespace std;
 
