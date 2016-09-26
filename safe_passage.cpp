@@ -1,4 +1,4 @@
-/*https://open.kattis.com/problems/safepassage*/
+/*(NOT FINISHED)https://open.kattis.com/problems/safepassage*/
 
 #include <iostream>
 #include <algorithm> //used for sort & min functions
